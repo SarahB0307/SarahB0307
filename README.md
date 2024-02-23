@@ -1,4 +1,4 @@
-## Hello World! 👋 👇 Check out my Git Hub Profile👇</h2>
+## Hello and Welcome ! 👋 👇 Check out my Git Hub Profile👇</h2>
 
 
 - I'm a second-year computer science student who is passionate about web development, cyber security and data science, this space is where I showcase my journey of learning, experimentation, and growth in the tech world.
