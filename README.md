@@ -19,7 +19,7 @@ Challenges: Challenges I've tackled, both technical and non-technical, and how I
 Let's Connect! 
 
 I'm always eager to connect with fellow students, developers, and enthusiasts who share my passion for computer science. Whether it's discussing projects, sharing resources, or collaborating on new ideas, I'm excited to engage with like-minded individuals.
-LinkedIn: https://www.linkedin.com/in/sarah-beldjoudi-45522a2a0/\n
+LinkedIn: https://www.linkedin.com/in/sarah-beldjoudi-45522a2a0/
 Email: beldjoudi.sarah0307@gmail.com
 
 
