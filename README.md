@@ -10,10 +10,10 @@ I'm currently a second-year student pursuing a degree in computer science. I'm c
 
 ## What You'll Find Here 
 
--***Projects***: A mix of personal projects, course assignments, and collaborative efforts.<br>
--***Learning Journey***: Documentations of my learning process, including tutorials, blog posts, and resources that have helped me along the way.<br>
--***Skills***: Demonstrations of the skills I'm developing in HTML, CSS, JavaScript, C, Java, SQL and other technologies.<br>
--***Challenges***: Challenges I've tackled, both technical and non-technical, and how I've overcome them.<br>
+- ***Projects***: A mix of personal projects, course assignments, and collaborative efforts.<br>
+- ***Learning Journey***: Documentations of my learning process, including tutorials, blog posts, and resources that have helped me along the way.<br>
+- ***Skills***: Demonstrations of the skills I'm developing in HTML, CSS, JavaScript, C, Java, SQL and other technologies.<br>
+- ***Challenges***: Challenges I've tackled, both technical and non-technical, and how I've overcome them.<br>
 
 
 ## Let's Connect! 
