@@ -1,4 +1,4 @@
-## Hello and Welcome! 👋 It's great to have you here! 🌟</h2>
+## Hello and Welcome to my GitHub space! 🌟 </h2>
 
 
 - I'm a second-year computer science student who is passionate about web development, cyber security and data science, this space is where I showcase my journey of learning, experimentation, and growth in the tech world.
