@@ -37,7 +37,7 @@ For more details see [Linkedin](https://www.linkedin.com/in/sarah-beldjoudi/).
 👨🏻‍💻I'm always eager to connect with fellow students, developers, and enthusiasts who share my passion for Computer Science. Whether it's discussing projects, sharing resources, or collaborating on new ideas, I'm excited to engage with like-minded individuals.  [Email](beldjoudi.sarah0307@gmail.com)
 
 
-## Get Involved 
+### Get Involved 
 
 🌱As I continue to learn and grow, I welcome feedback, suggestions, and contributions from the community. If you spot a bug, have an idea for improvement, or just want to say hello, please don't hesitate to reach out or submit a pull request.<br>
 
