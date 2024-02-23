@@ -19,7 +19,7 @@ I'm currently a second-year student pursuing a degree in computer science. I'm c
 ## Let's Connect! 
 
 I'm always eager to connect with fellow students, developers, and enthusiasts who share my passion for computer science. Whether it's discussing projects, sharing resources, or collaborating on new ideas, I'm excited to engage with like-minded individuals.<br>
-LinkedIn: https://www.linkedin.com/in/sarah-beldjoudi-45522a2a0/<br>
+[Link to my LinkedIn](https://www.linkedin.com/in/sarah-beldjoudi-45522a2a0/)
 Email: beldjoudi.sarah0307@gmail.com<br>
 
 
