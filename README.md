@@ -1,9 +1,9 @@
-Welcome to My GitHub Profile!
+##Welcome to My GitHub Profile!
 
 Hello and welcome! 👋 I'm thrilled to have you visit my GitHub profile. As a second-year computer science student passionate about web development, cyber security and data science, this space is where I showcase my journey of learning, experimentation, and growth in the tech world.
 
 
-About Me  
+##About Me  
 
 I'm currently a second-year student pursuing a degree in computer science. I'm constantly learning and exploring new technologies, frameworks, and best practices to enhance my skills and expand my knowledge base.
 
