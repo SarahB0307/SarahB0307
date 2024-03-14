@@ -26,8 +26,8 @@ For more details see [Linkedin](https://www.linkedin.com/in/sarah-beldjoudi/).
       
 ### Certification 
       • JavaScript Algorithms and Data Structures Certification (FreeCodeCamp)
-      • Wew Development Certification (Udemy)
-      • CS50 Introduction to Computer Science (Harvard X edX)
+     
+      
 
 
 <br/>
